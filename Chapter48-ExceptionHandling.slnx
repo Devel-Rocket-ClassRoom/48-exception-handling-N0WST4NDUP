@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CodingPractice/CodingPractice.csproj" />
+  <Project Path="GameItemException/GameItemException.csproj" />
+  <Project Path="FilePathValidator/FilePathValidator.csproj" />
+  <Project Path="SafeCalculator/SafeCalculator.csproj" />
+</Solution>
